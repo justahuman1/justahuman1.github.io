@@ -21,5 +21,6 @@ for the PepsiCo Supply Chain Case Study (2019).
   - Stats Model API
   - Plotly
   - Cufflinks
+  - Matplotlib
   - Jupyter Notebook
   - Pandas
