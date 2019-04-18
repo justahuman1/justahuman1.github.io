@@ -17,10 +17,12 @@ for the PepsiCo Supply Chain Case Study (2019).
   
 ### Results:
 
+##### The following <a href='https://justahuman1.github.io/'>website</a> contains further information.
+
 <img src='https://i.imgur.com/y1WNSIU.png'>
 
 
 <img src='https://i.imgur.com/sUFfcfX.png'>
 
 
-##### The following <a href='https://justahuman1.github.io/'>website</a> contains more information
+
