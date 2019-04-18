@@ -2,7 +2,7 @@
 
 <a href='https://justahuman1.github.io/'>
 A predictive modeling algorithm using various linear regressions (LR, MLR, ARIMA, ESF, WMA, etc.) to forecast future demand
-for PepsiCo Case Study (2019).
+for the PepsiCo Supply Chain Case Study (2019).
 </a>
 
 
@@ -15,3 +15,9 @@ for PepsiCo Case Study (2019).
   - Pandas
 
   
+### Results
+
+<img src='https://i.imgur.com/y1WNSIU.png'>
+
+
+<img src='https://i.imgur.com/sUFfcfX.png'>
