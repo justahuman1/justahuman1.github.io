@@ -5,7 +5,8 @@ A predictive modeling algorithm using various linear regressions (LR, MLR, ARIMA
 for PepsiCo Case Study (2019).
 </a>
 
-Stack:
+
+### Stack:
   - Scikit-Learn
   - Stats Model API
   - Plotly
