@@ -15,6 +15,7 @@ for the PepsiCo Supply Chain Case Study (2019).
 
 <img src='https://i.imgur.com/4htmAoa.png'>
 
+<hr />
 
 ### Stack:
   - Scikit-Learn
