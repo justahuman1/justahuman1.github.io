@@ -4,8 +4,7 @@
 A predictive modeling algorithm using various linear regressions (LR, MLR, ARIMA, ESF, WMA, etc.) to forecast future demand
 for the PepsiCo Supply Chain Case Study (2019).
 </a>
-
-<hr />
+<br />
   
 ### Results:
 
