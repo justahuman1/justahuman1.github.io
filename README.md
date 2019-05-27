@@ -23,5 +23,5 @@ for the PepsiCo Supply Chain Case Study (2019).
   - Plotly
 
   - Matplotlib
-  - Jupyter Notebook
+
   - Pandas
